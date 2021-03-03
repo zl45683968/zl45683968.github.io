@@ -10,9 +10,9 @@ permalink: /about/
 ### Features
 - Simple.
 - The theme of black
-- Most optimized theme for tech blog.
+- Witten by the baby boy.
 - Lightweight with minimum stylesheet.
-- Easy to customize.
+- Easy to understand.
 - Offers category menu.
 
 ### _config.yml
