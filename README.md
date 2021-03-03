@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## The blog of ZL
+> from the youngon development department
 
 ### Features
 - Responsive.
