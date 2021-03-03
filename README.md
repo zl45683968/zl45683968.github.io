@@ -8,8 +8,8 @@ permalink: /about/
 > from the youngon development department
 
 ### Features
-- Responsive.
-- Syntax Highlight
+- Simple.
+- The theme of black
 - Most optimized theme for tech blog.
 - Lightweight with minimum stylesheet.
 - Easy to customize.
