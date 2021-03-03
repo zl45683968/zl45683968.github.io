@@ -10,7 +10,7 @@ permalink: /about/
 ### Features
 - Simple.
 - The theme of black
-- Witten by the baby boy.
+- Witten by a baby boy.
 - Lightweight with minimum stylesheet.
 - Easy to understand.
 - Offers category menu.
