@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## The blog of ZL
+> from the youngon development department
 
 ### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
+- Simple.
+- The theme of black
+- Witten by a baby boy.
 - Lightweight with minimum stylesheet.
-- Easy to customize.
+- Easy to understand.
 - Offers category menu.
 
 ### _config.yml
