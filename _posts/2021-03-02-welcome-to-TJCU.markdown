@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to TJCU!"
+title:  "Welcome to Jekyll!"
 date:   2021-03-02 23:16:29 +0900
 categories: jekyll update
 ---
